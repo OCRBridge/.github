@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-you will find the actual sources at https://codeberg.org/org/OCRBridge
-
 <!--
 
 **Here are some ideas to get you started:**
